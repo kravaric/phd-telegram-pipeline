@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite it as follows."
+authors:
+  - family-names: "[Taranis]"
+    given-names: "[Dimitrios]"
+    orcid: "[0009-0003-8401-7861]"
+title: "PhD Telegram Pipeline"
+version: "1.0.0"
+license: "CC BY-NC 4.0"
+doi: "[Θα το προσθέσουμε μετά το Zenodo DOI]"
+date-released: "2025-02-23"
+repository-code: "https://github.com/[Το_όνομά_σου]/phd-telegram-pipeline"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "[Taranis]"
+      given-names: "[Dimitrios]"
+  title: "PhD Research on Telegram Data Analysis"
+  year: "2025"
