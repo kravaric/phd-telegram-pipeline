@@ -26,5 +26,4 @@ title = {PhD Telegram Pipeline},
 year = {2025},
 version = {1.0.0},
 url = {https://github.com/your-username/phd-telegram-pipeline},
-doi = {10.5281/zenodo.14914170}
-}
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14914170.svg)](https://doi.org/10.5281/zenodo.14914170)
