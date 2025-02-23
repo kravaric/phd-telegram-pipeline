@@ -17,3 +17,14 @@ This repository contains a **Streamlit application** and a **Telegram authentica
 
 # Run the Streamlit app:
    streamlit run app.py
+
+## 🔗 Citation
+If you use this code in your research, please cite it using the `CITATION.cff` file:
+@software{your_name_telegram_pipeline_2025,
+author = {Dimitrios S. Taranis},
+title = {PhD Telegram Pipeline},
+year = {2025},
+version = {1.0.0},
+url = {https://github.com/your-username/phd-telegram-pipeline},
+doi = {10.5281/zenodo.XXXXXXX}
+}
