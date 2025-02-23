@@ -1,0 +1,15 @@
+streamlit
+telethon
+langdetect
+nltk
+deep-translator
+scikit-learn
+setfit
+rapidfuzz
+matplotlib
+seaborn
+nest_asyncio
+joblib
+pandas
+numpy
+requests
